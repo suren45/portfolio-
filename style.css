@@ -1,0 +1,130 @@
+body{
+    margin: 0;
+
+}
+#title{
+    background-color: #7C83FD;
+    width:100%;
+    height: 250px;
+    
+    position: relative;
+    padding: 4% 10% ;
+    
+   
+}
+.nav-Pad{
+    padding-left: 2%;
+}
+.pad-h2{
+    font-family: 'Caveat', cursive;
+    font-size: 5rem;
+}
+
+.title-img{
+    
+    position: absolute;
+    background-color: #111;
+    width: 50%;
+    height: 120px;
+    position:absolute;
+left:0;
+right:0;
+margin-left:auto;
+margin-right:auto;
+top: 70%;
+border-radius:  15% 8%;
+opacity: 0.9;
+    
+}
+.pad-h2{
+    padding:8%;
+}
+.skill-h{
+    padding-bottom: 5%;
+}
+.font-change{
+    font-family: 'Contrail One', cursive;
+    font-size: 30px;
+    color: #d3d3cfe5;
+}
+    
+.round{
+    border-radius: 100%;
+    
+    width: 120px;
+    height: 150px;
+   
+    position: absolute;
+    left:0;
+right:0;
+margin-left:auto;
+margin-right:auto;
+margin-top: 20px;
+
+    
+}
+#main-content{
+    background-image: url("confetti.png");
+    background-position: center;
+    background-size: cover;
+    padding: 8.5%;
+    text-align: center;
+    
+    z-index: -1;
+}
+img{
+    width: 90%;
+}
+#skill-set{
+    text-align: center;
+    padding: 2%;
+    width: 100%;
+    background-color: #FCF8E8;
+    
+}
+.skill-h{
+    font-family: 'Righteous', cursive;
+}
+#resume-upload{
+    text-align: center;
+    
+    background-image: url(confetti-1.png);
+    background-position: center;
+    background-size: cover;
+    padding: 4%;
+    
+}
+.button-pad{
+    padding: 3% 2% 1%;
+    font-family: 'Righteous', cursive;
+}
+#footer{
+    text-align: center;
+    padding: 2% 5% 1%;
+    background-color: #7C83FD;
+    
+}
+.media-pad{
+    padding: 2% 2%;
+}
+.colour{
+    background-color: rgb(19, 43, 149);
+}
+
+
+.colour:hover{
+    background-color:rgb(58, 58, 208);
+}
+.footer-{
+    padding-top: 1%;
+}
+h4{
+    font-family: 'Righteous', cursive;
+    font-size: 30px;
+}
+.skillset-class{
+    width: 20%;
+    padding: 2%;
+}
+
+
